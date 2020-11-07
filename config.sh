@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GITHUB_USER=abas_games
+GITHUB_USER=abasgames
 GITHUB_EMAIL=abbsalmgde200@gmail.com
 
 KBUILD_BUILD_USER="abas_games"
